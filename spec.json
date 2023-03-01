@@ -1,0 +1,12 @@
+[
+  {
+    "name": "getblockcount",
+    "params": [],
+    "returns": 0
+  },
+  {
+    "name": "getblockhash",
+    "params": [0],
+    "returns": "String"
+  },
+]
